@@ -27,4 +27,4 @@ STEP 6: Use zscore of to remove outliers
 <img width="902" height="827" alt="image" src="https://github.com/user-attachments/assets/1bb57431-0121-418c-9ced-4f354087c844" />
 
 # Result
-          <<include your Result here>>
+The code was executed and verified successfully
