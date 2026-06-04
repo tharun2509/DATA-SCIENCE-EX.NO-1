@@ -21,6 +21,10 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            <<include your coding and its corressponding output screen shots here>>
+<img width="1155" height="572" alt="image" src="https://github.com/user-attachments/assets/415c4d9a-ab75-470a-a05a-84d0d4318a8c" />
+<img width="1387" height="667" alt="image" src="https://github.com/user-attachments/assets/6340b879-c48c-4fe0-b0f2-ac85b8fae18a" />
+<img width="1366" height="831" alt="image" src="https://github.com/user-attachments/assets/76489323-2b32-404a-a614-aa004162eaa5" />
+<img width="902" height="827" alt="image" src="https://github.com/user-attachments/assets/1bb57431-0121-418c-9ced-4f354087c844" />
+
 # Result
           <<include your Result here>>
